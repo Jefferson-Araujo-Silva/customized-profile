@@ -26,5 +26,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Jefferson-Araujo-Silva&icon=0&color=6)](https://visitcount.itsvg.in)
-
+![snake gif](https://github.com/Jefferson-Araujo-Silva/Jefferson-Araujo-Silva/blob/output/github-contribution-grid-snake.svg)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
